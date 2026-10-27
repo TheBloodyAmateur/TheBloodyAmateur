@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Botan and I am a Full-stack engineer and Splunk consultant.</p>
+<p align="left">I am a Full-stack engineer and Splunk consultant.</p>
 
 ###
 
